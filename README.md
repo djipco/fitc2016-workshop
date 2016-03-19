@@ -7,4 +7,4 @@ done during the whole workshop. If you want to catch up with the group, simply p
 
 The `Libraries` folder contains various front-end JavaScript libraries used throughout the workshop.
 
-Node.js modules have not been included. After downloading the sources, you can easily install all necessary Node modules by issuing `npm install` from within the project's folder. This will install all dependencies listed in the `package.json` file.
+Node.js modules have not been included. After downloading the sources, you can easily install all necessary Node modules by issuing `npm install` from within the project's root folder. This will install all dependencies listed in the `package.json` file.
