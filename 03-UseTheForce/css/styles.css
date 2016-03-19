@@ -1,0 +1,17 @@
+body, html {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+canvas {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}

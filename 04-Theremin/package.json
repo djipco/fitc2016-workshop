@@ -1,0 +1,8 @@
+{
+  "name": "phys-comp-for-web-devs",
+  "main": "index.html",
+  "window": {
+    "width": 800,
+    "height": 600
+  }
+}

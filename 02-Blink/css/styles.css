@@ -1,0 +1,9 @@
+body, html {
+  background-color: #333;
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 20px;
+}
