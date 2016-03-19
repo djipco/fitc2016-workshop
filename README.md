@@ -5,4 +5,6 @@ This is the source code from my **Physical Computing For Web Developers** worksh
 Each exercise builds up on the previous ones. So, exercice `06-KnockKnockBuzz` actually contains everything that was 
 done during the whole workshop. If you want to catch up with the group, simply pick the current exercise and you're all set.
 
-The `Libraries` folder contains various JavaScript libraries used throughout the workshop.
+The `Libraries` folder contains various front-end JavaScript libraries used throughout the workshop.
+
+Node.js modules have not been included. After downloading the sources, you can easily install all necessary modules by running issuing `npm install` from within the project's folder. This will install all dependencies listed in the `package.json` file.
