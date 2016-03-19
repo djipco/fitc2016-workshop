@@ -4,5 +4,9 @@
   "window": {
     "width": 800,
     "height": 600
+  },
+  "dependencies": {
+    "johnny-five": "^0.9.34",
+    "nwjs-j5-fix": "^1.0.2"
   }
 }
