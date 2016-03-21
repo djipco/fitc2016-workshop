@@ -33,8 +33,8 @@ window.addEventListener("DOMContentLoaded", function() {
 
   // Create Johnny-Five object and new Board object to work with.
   var five = require("johnny-five");
-  // var board = new five.Board(); // Mac
-  var board = new five.Board({port: "COM6"}); // Windows
+  var board = new five.Board(); // Mac
+  // var board = new five.Board({port: "COM6"}); // Windows
 
   // Add a callback to be triggered when the board is ready.
   board.on("ready", function() {
