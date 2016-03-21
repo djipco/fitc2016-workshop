@@ -1,0 +1,24 @@
+body, html {
+  background-color: #222;
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+canvas, #freq {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#value {
+  font-size: 15vh;
+  margin-top: 40vh;
+  text-align: center;
+  font-weight: bold;
+}
