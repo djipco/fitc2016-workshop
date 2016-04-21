@@ -18,9 +18,9 @@ Particle.prototype.draw = function() {
   this.context.beginPath();
   this.context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI, false);
   this.context.fillStyle =  "rgba("
-                            + this.color.r + ", "
-                            + this.color.g + ", "
-                            + this.color.b+ ", " + this.alpha
+                            + Math.floor(this.color.r) + ", "
+                            + Math.floor(this.color.g) + ", "
+                            + Math.floor(this.color.b) + ", " + this.alpha
                             + ")";
   this.context.fill();
 };
